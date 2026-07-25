@@ -1,0 +1,6 @@
+telethon
+PySide6
+openpyxl
+pandas
+pyinstaller
+pyqtdarktheme
